@@ -29,3 +29,12 @@
 
 ## Flurry 
 ![Flurry](10-flurry.gif "Flurry")
+
+## Blocks 
+![Blocks](blocks.gif "Blocks") 
+
+## Nature 
+![Nature](nature.gif "Nature") 
+
+## Dolly 
+![Dolly](dolly.gif "Dolly")
